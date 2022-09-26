@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" alt="gif" />
-
 - 👋 Hi, I’m @sad-sad-094
 - 👀 I’m interested in start new projects in IT...
 - 🌱 I’m currently learning web development and something else.
