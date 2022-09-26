@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @sad-sad-094
+- 👋 Hi, I’m @sad-sad-094, junior frontend developer.
 - 👀 I’m interested in start new projects in IT...
-- 🌱 I’m currently learning web development and something else.
-<!--- 💞️ I’m looking to collaborate on ... --->
-- 📫 You can reach me on sadw621@gmail.com or +57 350 6487868.
+- 🌱 I’m currently improving my web development skills and learning something else.
+- 📫 You can reach me on sadw621@gmail.com.
 
 <!---
 sad-sad-094/sad-sad-094 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
